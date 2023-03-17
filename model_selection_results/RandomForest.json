@@ -1,0 +1,1 @@
+{"parameters": {"forest__bootstrap": true, "forest__criterion": "entropy", "forest__max_depth": 50, "forest__max_features": "sqrt", "forest__min_samples_split": 12, "forest__n_estimators": 100}, "score": 0.6825676086481527}
